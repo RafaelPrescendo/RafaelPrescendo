@@ -1,16 +1,29 @@
-## Hi there 👋
+# Rafael Prescendo
 
-<!--
-**RafaelPrescendo/RafaelPrescendo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Estudante de Engenharia de Computação | Técnico em Informática para Internet**
 
-Here are some ideas to get you started:
+🎓 Atualmente estudante de **Engenharia de Computação na FURG**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Técnico em **Informática para Internet pelo IFRS — Campus Veranópolis**.
+
+Tenho interesse em desenvolvimento de software, automação e integração de sistemas.
+
+### 🛠️ Tecnologias
+
+* Python
+* C/C++
+* JavaScript
+* HTML/CSS
+* PostgreSQL
+* Git/GitHub
+* Linux
+
+### 📚 Atualmente
+
+* Engenharia de Computação — FURG
+* Desenvolvimento de projetos acadêmicos e pessoais
+* Estudos em programação, algoritmos e desenvolvimento de software
+
+### 🔗 Contato
+
+[LinkedIn](https://www.linkedin.com/in/rafael-prescendo-b89479308)
