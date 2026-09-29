@@ -2,11 +2,9 @@
 
 **Estudante de Engenharia de Computação | Técnico em Informática para Internet**
 
-🎓 Atualmente estudante de **Engenharia de Computação na FURG**.
+🎓 Estudante de **Engenharia de Computação na FURG**, com formação técnica em **Informática para Internet pelo IFRS — Campus Veranópolis**.
 
-💻 Técnico em **Informática para Internet pelo IFRS — Campus Veranópolis**.
-
-Tenho interesse em desenvolvimento de software, automação e integração de sistemas.
+💻 Interesse em **desenvolvimento de software, automação e integração de sistemas**.
 
 ### 🛠️ Tecnologias
 
@@ -17,12 +15,6 @@ Tenho interesse em desenvolvimento de software, automação e integração de si
 * PostgreSQL
 * Git/GitHub
 * Linux
-
-### 📚 Atualmente
-
-* Engenharia de Computação — FURG
-* Desenvolvimento de projetos acadêmicos e pessoais
-* Estudos em programação, algoritmos e desenvolvimento de software
 
 ### 🔗 Contato
 
