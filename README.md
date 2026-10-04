@@ -18,4 +18,5 @@
 
 ### 🔗 Contato
 
+[Currículo Lattes](https://lattes.cnpq.br/1961197432902657)<br>
 [LinkedIn](https://www.linkedin.com/in/rafael-prescendo-b89479308)
